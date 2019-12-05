@@ -1,0 +1,255 @@
+
+11/21/2019, 4:13:13 PM
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.15.1
+  Architecture                = 64bit
+  # CPUs                      = 4
+  Memory                      = 8589934592
+
+Node.js
+  Node.js Version             = 12.13.0
+  npm Version                 = 6.12.0
+
+Titanium CLI
+  CLI Version                 = 5.2.1
+
+Titanium SDK
+  SDK Version                 = 8.2.1.GA
+  SDK Path                    = /Users/nouf/Library/Application Support/Titanium/mobilesdk/osx/8.2.1.GA
+  Target Platform             = iphone
+
+Command
+  /usr/local/bin/node /Users/nouf/.appcelerator/install/7.1.1/package/node_modules/titanium/lib/titanium.js build --platform ios --log-level trace --sdk 8.2.1.GA --project-dir /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3 --target device --ios-version 13.2.2 --device-family universal --developer-name Apple Development: nouf_alturaief@hotmail.com (C6WJP5QVU5) --device-id 195f1d1edb638d2e88ec7abf821ad4f9c639715e --pp-uuid ac7e6c09-0cbf-4fd7-add3-e07254bfac96 --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 54273 --config-file /var/folders/_j/91m8wf0s72d5rw7mykmz9tsc0000gn/T/build-1574341988514.json --no-banner --project-dir /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3
+
+[DEBUG]  Detecting modules in /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/node_modules
+[DEBUG]  Detecting modules in /Users/nouf/Library/Application Support/Titanium/modules
+[DEBUG]  Detected android module: hyperloop 4.0.4 @ /Users/nouf/Library/Application Support/Titanium/modules/android/hyperloop/4.0.4
+[DEBUG]  Detected android module: ti.map 4.5.0 @ /Users/nouf/Library/Application Support/Titanium/modules/android/ti.map/4.5.0
+[DEBUG]  Detected android module: ti.playservices 16.1.3 @ /Users/nouf/Library/Application Support/Titanium/modules/android/ti.playservices/16.1.3
+[DEBUG]  Detected android module: ti.identity 2.1.0 @ /Users/nouf/Library/Application Support/Titanium/modules/android/ti.identity/2.1.0
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ /Users/nouf/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11
+[DEBUG]  Detected android module: ti.cloudpush 6.0.1 @ /Users/nouf/Library/Application Support/Titanium/modules/android/ti.cloudpush/6.0.1
+[DEBUG]  Detected android module: ti.webdialog 1.1.0 @ /Users/nouf/Library/Application Support/Titanium/modules/android/ti.webdialog/1.1.0
+[DEBUG]  Detected ios module: hyperloop 4.0.4 @ /Users/nouf/Library/Application Support/Titanium/modules/iphone/hyperloop/4.0.4
+[DEBUG]  Detected ios module: facebook 7.0.0 @ /Users/nouf/Library/Application Support/Titanium/modules/iphone/facebook/7.0.0
+[DEBUG]  Detected ios module: ti.map 3.3.0 @ /Users/nouf/Library/Application Support/Titanium/modules/iphone/ti.map/3.3.0
+[DEBUG]  Detected android module: ti.touchid 3.0.1 @ /Users/nouf/Library/Application Support/Titanium/modules/android/ti.touchid/3.0.1
+[DEBUG]  Detected android module: facebook 8.0.0 @ /Users/nouf/Library/Application Support/Titanium/modules/android/facebook/8.0.0
+[DEBUG]  Detected ios module: com.appcelerator.urlSession 2.2.0 @ /Users/nouf/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.2.0
+[DEBUG]  Detected ios module: ti.safaridialog 1.1.1 @ /Users/nouf/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.1.1
+[DEBUG]  Detected ios module: ti.coremotion 2.0.1 @ /Users/nouf/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.0.1
+[DEBUG]  Detected ios module: ti.identity 1.0.6 @ /Users/nouf/Library/Application Support/Titanium/modules/iphone/ti.identity/1.0.6
+[DEBUG]  Detected ios module: ti.touchid 2.1.4 @ /Users/nouf/Library/Application Support/Titanium/modules/iphone/ti.touchid/2.1.4
+[DEBUG]  Detected ios module: ti.webdialog 1.1.0 @ /Users/nouf/Library/Application Support/Titanium/modules/iphone/ti.webdialog/1.1.0
+[DEBUG]  Detected ios module: ti.applesignin 1.1.1 @ /Users/nouf/Library/Application Support/Titanium/modules/iphone/ti.applesignin/1.1.1
+[DEBUG]  Looking for Titanium module id=hyperloop version=latest platform=ios deploy-type=test
+[INFO]   Found Titanium module id=hyperloop version=4.0.4 platform=ios deploy-type=test path=/Users/nouf/Library/Application Support/Titanium/modules/iphone/hyperloop/4.0.4
+[DEBUG]  No project level plugins to load
+[TRACE]  Snapshotting build directory
+[DEBUG]  Titanium SDK iOS directory: /Users/nouf/Library/Application Support/Titanium/mobilesdk/osx/8.2.1.GA/iphone
+[INFO]   Deploy type: test
+[INFO]   Building for target: device
+[INFO]   Building using iOS SDK: 13.2.2
+[INFO]   Building for iOS device: 195f1d1edb638d2e88ec7abf821ad4f9c639715e
+[INFO]   Building for device family: universal
+[DEBUG]  Setting Xcode target to Debug
+[DEBUG]  Setting Xcode build OS to iphoneos
+[DEBUG]  Xcode installation: /Applications/Xcode.app/Contents/Developer
+[DEBUG]  iOS WWDR certificate: installed
+[INFO]   iOS Development Certificate: Apple Development: nouf_alturaief@hotmail.com (C6WJP5QVU5)
+[INFO]   Team ID: U84XTWQ6F7
+[INFO]   Minimum iOS version: 9.0
+[INFO]   Using default keychain
+[INFO]   Logging enabled on port 25824
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Set to copy files instead of symlinking
+[INFO]   Transpile javascript: true
+[INFO]   Generate source maps: true
+[INFO]   Initializing the build directory
+[TRACE]  Starting third-party framework detection
+[TRACE]  Scanning /Users/nouf/Library/Application Support/Titanium/modules/iphone/hyperloop/4.0.4 for frameworks
+[DEBUG]  [Hyperloop] No CocoaPods Podfile found. Skipping ...
+[TRACE]  offline build file /var/folders/_j/91m8wf0s72d5rw7mykmz9tsc0000gn/T/build-aaece17c0d65932ea7ef97c0a4505183580db97a.json
+[TRACE]  online 1
+[TRACE]  sending request {"json":{"username":"nalturaief@gmail.com","session":"19c4440e0274f08bf33e25a5aa3346dabb042dc6 OEXOSpILFjQLmYKCY3tBgzV4N5QYMTH9/2VNItH+WnQeL892gGCDf3hNLDza2tydvo34S9svIWS7oEqL8Yw23UsWYM6oiw+4B5Ztx7bs4feqXgNyqXJX4wD/hHEYmfml2L3ptp6xch4xQfERbtZC68ryzXRnMw5xjcAcx8x750fz8c9Zsb1CJER7URTXl3cy8AdoTZ3K+4Ikwx5Wm4kKNbBnkRisOKYuTZsdFajMAzU1yAlCUMmeikIod4VTwPB924kwYF7NuH94d2DlUve2IIGUtA0KVKSXxlYWJm/jWISkxNEekDgCb8tKibtxopyUAhFYTYKCh1BWP1YtdFtSjVDJziRqdP6KfY7G82dM2nCzbASGcEbWWxDRgGzlrb8w4Uvoh6goLKnf7SUXbhNILW6YzmUMPJr7VGGA4ddG0ovPPFV0SAqkE9SxJk/rRJ7PZes43neGwi89hzT2yMqqYqqwB5PT6iiwimVkgzgB7vJiYKquXX6b1WxeXFMmV26AkMk3aAbV8qJpn9bv9AXbejTnHSkugy1plKRrg43XmsVDUHmNAt+sYW23UWvCauS/uBc4jdqEQyanaoeldAa5J+PN63RiEndm+j0kLK6mRkuynk0O08vNk4ZpRDTbFvXeOhQCVBdGiZzphKm44e9jiF/W1TSN0sChOL24g5OnWRtXu5uRC9CJ0v+Dh8NrA6+5nEEyuBW8ZHQDbCagOxlSDQ==","ipaddress":"192.168.100.53","fingerprint":"2ac94eb03a70214f9438f124f37579e1c37e70f6","fingerprint_description":"Mac OSX Serial Number: C02RX7D5FVH5","guid":"3f6c0940-1b5a-4909-9777-446ce1533940","appid":"com.nouf.interpreted","name":"interpreted3","org_id":723282453441632,"deploytype":"test","tiappxml":"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ti:app \n  xmlns:ti=\"http://ti.appcelerator.org\">\n  <id>com.nouf.interpreted</id>\n  <name>interpreted3</name>\n  <version>1.0</version>\n  <publisher>nouf</publisher>\n  <url>undefined</url>\n  <description>undefined</description>\n  <copyright>2019 by nouf</copyright>\n  <icon>DefaultIcon.png</icon>\n  <fullscreen>false</fullscreen>\n  <navbar-hidden>false</navbar-hidden>\n  <analytics>true</analytics>\n  <guid>3f6c0940-1b5a-4909-9777-446ce1533940</guid>\n  <property name=\"ti.ui.defaultunit\" type=\"string\">dp</property>\n  <property name=\"run-on-main-thread\" type=\"bool\">***</property>\n  <ios>\n    <enable-launch-screen-storyboard>true</enable-launch-screen-storyboard>\n    <use-app-thinning>true</use-app-thinning>\n    <plist>\n      <dict>\n        <key>UISupportedInterfaceOrientations~iphone</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n        </array>\n        <key>UISupportedInterfaceOrientations~ipad</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n          <string>UIInterfaceOrientationPortraitUpsideDown</string>\n          <string>UIInterfaceOrientationLandscapeLeft</string>\n          <string>UIInterfaceOrientationLandscapeRight</string>\n        </array>\n        <key>UIRequiresPersistentWiFi</key>\n        <false/>\n        <key>UIPrerenderedIcon</key>\n        <false/>\n        <key>UIStatusBarHidden</key>\n        <false/>\n        <key>UIStatusBarStyle</key>\n        <string>UIStatusBarStyleDefault</string>\n        <key>NSCameraUsageDescription</key>\n        <string>To take a picture we want to use the camera</string>\n      </dict>\n    </plist>\n  </ios>\n  <android \n    xmlns:android=\"http://schemas.android.com/apk/res/android\">\n    <manifest android:versionCode=\"1\" \n      xmlns:android=\"http://schemas.android.com/apk/res/android\"/>\n    </android>\n    <modules>\n      <module platform=\"iphone\">hyperloop</module>\n    </modules>\n    <deployment-targets>\n      <target device=\"android\">false</target>\n      <target device=\"ipad\">true</target>\n      <target device=\"iphone\">true</target>\n    </deployment-targets>\n    <sdk-version>8.2.1.GA</sdk-version>\n    <property name=\"appc-app-id\" type=\"string\">5dd580863708c4178ff51ed5</property>\n  </ti:app>","modules":[{"id":"hyperloop","platform":["ios"],"deployType":["test"],"version":"4.0.4","modulePath":"/Users/nouf/Library/Application Support/Titanium/modules/iphone/hyperloop/4.0.4","manifest":{"version":"4.0.4","apiversion":2,"architectures":["armv7","arm64","i386","x86_64"],"description":"hyperloop","author":"Appcelerator","license":"Appcelerator Commercial License","copyright":"Copyright (c) 2016-Present by Appcelerator, Inc.","name":"hyperloop","moduleid":"hyperloop","guid":"bdaca69f-b316-4ce6-9065-7a61e1dafa39","platform":"ios","minsdk":"8.0.0"},"native":true,"libName":"libhyperloop.a","libFile":"/Users/nouf/Library/Application Support/Titanium/modules/iphone/hyperloop/4.0.4/libhyperloop.a","isFramework":false,"hash":"05ab37b55296b3ccb8ff831434ed5d9a"}]},"gzip":true,"followAllRedirects":true,"url":"https://platform.axway.com/api/v1/auth/build-verify"}
+[TRACE]  result from /build-verify=> {"key":"zEVVYpRaAKg9oTMOxkNB5w==","pepper":"BmJO5RsM5LPMXCNWhzo0UQ==","hmacKey":"Le2dCfxmZuDPmY6lfj/g+A==","o":723282453441632,"u":"4b348c8d-1c96-4b4f-a01d-f4bf84c4b447","p":"starter","i":"5dd68d6b5b358901c9b1cf18","success":true}, err=null
+[INFO]   JavaScript files need to be encrypted
+[INFO]   Creating Xcode project
+[TRACE]  Removing pre-compile phase
+[TRACE]  Adding 1 native module library
+[TRACE]  No extensions to add
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/interpreted3.xcodeproj/project.pbxproj
+[INFO]   Creating Entitlements.plist
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/interpreted3.entitlements
+[INFO]   Creating Info.plist
+[INFO]   Disabling ATS
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Info.plist
+[INFO]   Creating main.m
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/main.m
+[INFO]   Creating Xcode config files
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/project.xcconfig
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/module.xcconfig
+[INFO]   Copying Titanium libraries
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/lib/libtiverify.a
+[INFO]   Copying Titanium iOS files
+[TRACE]  Skipping Classes/ApplicationRouting.m, it'll be processed later
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/interpreted3_Prefix.pch
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/interpreted3.xcodeproj/xcshareddata/xcschemes/interpreted3.xcscheme
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/interpreted3.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+[INFO]   Installing default LaunchScreen.storyboard
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/LaunchScreen.storyboard
+[INFO]   Creating debugger and profiler plists
+[DEBUG]  Skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/debugger.plist
+[DEBUG]  Skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/profiler.plist
+[INFO]   Analyzing Resources directory
+[INFO]   Analyzing platform files
+[INFO]   Analyzing module files
+[INFO]   Analyzing localized launch images
+[INFO]   Analyzing CommonJS modules
+[INFO]   Creating asset catalog
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/Contents.json
+[INFO]   Creating app icon set
+[TRACE]  Found generated 29x29 app icon: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/AppIcon.appiconset/DefaultIcon-Small.png
+[TRACE]  Found generated 58x58 app icon: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/AppIcon.appiconset/DefaultIcon-Small@2x.png
+[TRACE]  Found generated 87x87 app icon: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/AppIcon.appiconset/DefaultIcon-Small@3x.png
+[TRACE]  Found generated 40x40 app icon: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/AppIcon.appiconset/DefaultIcon-Small-40.png
+[TRACE]  Found generated 80x80 app icon: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/AppIcon.appiconset/DefaultIcon-Small-40@2x.png
+[TRACE]  Found generated 120x120 app icon: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/AppIcon.appiconset/DefaultIcon-Small-40@3x.png
+[TRACE]  Found generated 120x120 app icon: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/AppIcon.appiconset/DefaultIcon-60@2x.png
+[TRACE]  Found generated 180x180 app icon: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/AppIcon.appiconset/DefaultIcon-60@3x.png
+[TRACE]  Found generated 76x76 app icon: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/AppIcon.appiconset/DefaultIcon-76.png
+[TRACE]  Found generated 152x152 app icon: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/AppIcon.appiconset/DefaultIcon-76@2x.png
+[TRACE]  Found generated 167x167 app icon: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/AppIcon.appiconset/DefaultIcon-83.5@2x.png
+[TRACE]  Found generated 1024x1024 app icon: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/AppIcon.appiconset/DefaultIcon-Marketing.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json
+[INFO]   Creating launch logo image set
+[TRACE]  Found generated 320x320 launch logo: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo~iphone.png
+[TRACE]  Found generated 374x374 launch logo: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@2x~iphone.png
+[TRACE]  Found generated 621x621 launch logo: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@3x~iphone.png
+[TRACE]  Found generated 384x384 launch logo: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo~ipad.png
+[TRACE]  Found generated 1024x1024 launch logo: /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@2x~ipad.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchLogo.imageset/Contents.json
+[INFO]   Creating launch image set
+[DEBUG]  Unsupported launch image Resources/iphone/Default.png, skipping
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Contents.json
+[INFO]   Creating assets image set
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/Contents.json
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/Contents.json
+[DEBUG]  Skipping colorset generation as "semantic.colors.json" file does not exist
+[DEBUG]  Copying resources
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-667h@2x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-1792h@2x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-2436h@3x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-2688h@3x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-736h@3x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@2x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-1792h@2x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-2436h@3x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-2688h@3x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-736h@3x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait@2x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default@2x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/tab1.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/tab1@2x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/tab1@3x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/tab2.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/tab2@2x.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/tab2@3x.png
+[DEBUG]  Copying CSS files
+[INFO]   Processing JavaScript files
+[TRACE]  process-js: Setting initial task state to "created"
+[TRACE]  process-js: Starting task
+[TRACE]  process-js: Changing task state from "created" to "running"
+[INFO]   Writing app properties
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/assets/_app_props__json
+[DEBUG]  Writing ENV variables
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/assets/_env__json
+[TRACE]  process-js: Nothing changed, skip task run
+[TRACE]  Checking require for: /semantic.colors.json
+[TRACE]  Checking require for: com.appcelerator.aca/com.appcelerator.aca
+[DEBUG]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/assets/ti_main_js
+[DEBUG]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/assets/Ui/Cam_js
+[TRACE]  Checking require for: ui/cam
+[TRACE]  Checking require for: ui/photos
+[DEBUG]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/assets/Ui/Main_js
+[DEBUG]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/assets/Ui/Photos_js
+[TRACE]  Checking require for: ui/main
+[DEBUG]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/assets/app_js
+[TRACE]  process-js: Changing task state from "running" to "finished"
+[TRACE]  process-js: Finished task in 1s 817.329ms
+[INFO]   Writing bootstrap json
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/assets/ti_internal/bootstrap_json
+[INFO]   Encrypting JavaScript files
+[INFO]   No JavaScript file changes, skipping titanium_prep
+[INFO]   Writing i18n files
+[DEBUG]  No i18n files to process
+[INFO]   Processing Titanium symbols
+[DEBUG]  Processing Titanium namespace resources
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/modules/ui/images/badge.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/modules/ui/images/closeButton.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/modules/ui/images/photoDefault.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/Classes/defines.h
+[INFO]   Removing files
+[DEBUG]  Removing empty directories
+[INFO]   Optimizing .plist and .png files
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/Info.plist
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/modules/ui/images/badge.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/modules/ui/images/closeButton.png
+[TRACE]  No change, skipping /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/modules/ui/images/photoDefault.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchScreen.storyboardc/Info.plist
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/AppIcon29x29@2x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/AppIcon29x29@2x~ipad.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/AppIcon29x29@3x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/AppIcon29x29~ipad.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/AppIcon40x40@2x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/AppIcon40x40@2x~ipad.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/AppIcon40x40@3x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/AppIcon40x40~ipad.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/AppIcon60x60@2x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/AppIcon60x60@3x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/AppIcon76x76@2x~ipad.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/AppIcon76x76~ipad.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/AppIcon83.5x83.5@2x~ipad.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-1100-Landscape-2436h@3x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-1100-Portrait-2436h@3x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-1200-Landscape-1792h@2x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-1200-Landscape-2688h@3x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-1200-Portrait-1792h@2x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-1200-Portrait-2688h@3x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-700-568h@2x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-700-Landscape@2x~ipad.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-700-Landscape~ipad.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-700-Portrait@2x~ipad.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-700-Portrait~ipad.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-700@2x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-800-667h@2x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-800-Landscape-736h@3x.png
+[DEBUG]  Optimizing /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products/Debug-iphoneos/interpreted3.app/LaunchImage-800-Portrait-736h@3x.png
+[INFO]   Starting Hyperloop assembly
+[INFO]   Skipping Hyperloop compile, no usage found ...
+[INFO]   Finished Hyperloop assembly in 0 seconds
+[INFO]   Writing index.json with listing of JS/JSON files
+[INFO]   Invoking xcodebuild
+[DEBUG]  Invoking: DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild build -target interpreted3 -configuration Debug -scheme interpreted3 -derivedDataPath /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/DerivedData -UseNewBuildSystem=YES OBJROOT=/Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Intermediates SHARED_PRECOMPS_DIR=/Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Intermediates/PrecompiledHeaders SYMROOT=/Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products APPC_PROJECT_DIR=/Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3
+[TRACE]  User defaults from command line:
+[TRACE]      IDEDerivedDataPathOverride = /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/DerivedData
+[TRACE]      UseNewBuildSystem = YES
+[TRACE]  Build settings from command line:
+[TRACE]      APPC_PROJECT_DIR = /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3
+[TRACE]      OBJROOT = /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Intermediates
+[TRACE]      SHARED_PRECOMPS_DIR = /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Intermediates/PrecompiledHeaders
+[TRACE]      SYMROOT = /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/interpreted3/build/iphone/build/Products
+[TRACE]  note: Using new build system
+[TRACE]  note: Planning build
+[TRACE]  note: Using build description from disk
+[TRACE]  
+[TRACE]  ** BUILD SUCCEEDED **
+[INFO]   Finished building the application in 24s 422ms
+[INFO]   Installing app on device: nouf's iPhone
+[INFO]   App successfully installed on device: nouf's iPhone

@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:esys_flutter_share] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-19:12
+MERGED from [:camera] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-10:12
+MERGED from [:path_provider] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-beta01.aar/9792c41d1957fb6645e2d0c360010a37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/media-1.0.0-beta01.aar/d663934121dcd8276ff4c156bf0afff3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/8593438a1006bd1911a06fb2dbfcdedd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/27447203db38ec572479e4f87aa21472/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/72386af67eed918210051597e4a8a48b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/af0aed9fa7588ff3e075a4688eb678c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/7a72df91ea14affa2d37ec13cf0b3792/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/56462253d190852a7d94ce80238e97cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/1c1a5847b63b2116f2dc5655ab8fc64a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/4f068e6917582e0024987db999cca7d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/2f7a0b00e0f2e8c67e711b82b8a9edc2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/10666c73e7fdd39e95bc07e3cde49c57/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/5e27be77a2af0b64834c05213b387f0d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/68294d954915e710ab623d01c9802a99/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/cb611f449b58c16d853ac0aeab162696/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/47ca6bbff5a978d025d847b58488d582/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/89c2371ecca5e373d8196e134cf925b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/317fc26f9f534796e10d81b976e26cf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/19c3be9898241f050387418f6653677b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/b2220c21c07aa2594034085ff9502106/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/d0e060e359fd08ada43ee1bd97b7de68/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/acad8373c59560f4d3d7a2c672d92ece/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/2f4bbd4f98feadb1e1c797518868f989/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/e0587649e18cc022467d93beacdaa665/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [:esys_flutter_share] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-17:19
+MERGED from [:esys_flutter_share] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-17:19
+MERGED from [androidx.core:core:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/68294d954915e710ab623d01c9802a99/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/68294d954915e710ab623d01c9802a99/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/cb611f449b58c16d853ac0aeab162696/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/cb611f449b58c16d853ac0aeab162696/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/68294d954915e710ab623d01c9802a99/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:11:9-34
+	android:icon
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:10:9-48
+activity#com.nouf.generated.MainActivity
+ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+MERGED from [:esys_flutter_share] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:esys_flutter_share] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:camera] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:camera] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-beta01.aar/9792c41d1957fb6645e2d0c360010a37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-beta01.aar/9792c41d1957fb6645e2d0c360010a37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/media-1.0.0-beta01.aar/d663934121dcd8276ff4c156bf0afff3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/media-1.0.0-beta01.aar/d663934121dcd8276ff4c156bf0afff3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/8593438a1006bd1911a06fb2dbfcdedd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-beta01.aar/8593438a1006bd1911a06fb2dbfcdedd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/27447203db38ec572479e4f87aa21472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-beta01.aar/27447203db38ec572479e4f87aa21472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/72386af67eed918210051597e4a8a48b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-beta01.aar/72386af67eed918210051597e4a8a48b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/af0aed9fa7588ff3e075a4688eb678c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-beta01.aar/af0aed9fa7588ff3e075a4688eb678c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/7a72df91ea14affa2d37ec13cf0b3792/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-beta01.aar/7a72df91ea14affa2d37ec13cf0b3792/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/56462253d190852a7d94ce80238e97cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-beta01.aar/56462253d190852a7d94ce80238e97cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/1c1a5847b63b2116f2dc5655ab8fc64a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-beta01.aar/1c1a5847b63b2116f2dc5655ab8fc64a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/4f068e6917582e0024987db999cca7d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-beta01.aar/4f068e6917582e0024987db999cca7d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/2f7a0b00e0f2e8c67e711b82b8a9edc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-beta01.aar/2f7a0b00e0f2e8c67e711b82b8a9edc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/10666c73e7fdd39e95bc07e3cde49c57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-beta01.aar/10666c73e7fdd39e95bc07e3cde49c57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/5e27be77a2af0b64834c05213b387f0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-beta01.aar/5e27be77a2af0b64834c05213b387f0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/68294d954915e710ab623d01c9802a99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/68294d954915e710ab623d01c9802a99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/cb611f449b58c16d853ac0aeab162696/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-beta01.aar/cb611f449b58c16d853ac0aeab162696/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/47ca6bbff5a978d025d847b58488d582/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-beta01.aar/47ca6bbff5a978d025d847b58488d582/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/89c2371ecca5e373d8196e134cf925b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-beta01.aar/89c2371ecca5e373d8196e134cf925b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/317fc26f9f534796e10d81b976e26cf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/print-1.0.0-beta01.aar/317fc26f9f534796e10d81b976e26cf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/19c3be9898241f050387418f6653677b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-beta01.aar/19c3be9898241f050387418f6653677b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/b2220c21c07aa2594034085ff9502106/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-beta01.aar/b2220c21c07aa2594034085ff9502106/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/d0e060e359fd08ada43ee1bd97b7de68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-beta01.aar/d0e060e359fd08ada43ee1bd97b7de68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/acad8373c59560f4d3d7a2c672d92ece/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-beta01.aar/acad8373c59560f4d3d7a2c672d92ece/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/2f4bbd4f98feadb1e1c797518868f989/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-beta01.aar/2f4bbd4f98feadb1e1c797518868f989/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/e0587649e18cc022467d93beacdaa665/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] /Users/nouf/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-beta01.aar/e0587649e18cc022467d93beacdaa665/AndroidManifest.xml:20:5-44
+INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/android/app/src/main/AndroidManifest.xml
+provider#de.esys.esysfluttershare.EsysFlutterShareFileProvider
+ADDED from [:esys_flutter_share] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:esys_flutter_share] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:esys_flutter_share] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:10:13-110
+	android:exported
+		ADDED from [:esys_flutter_share] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:esys_flutter_share] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:9:13-81
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:esys_flutter_share] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:13:13-15:72
+	android:resource
+		ADDED from [:esys_flutter_share] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from [:esys_flutter_share] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:14:17-67
+uses-permission#android.permission.CAMERA
+ADDED from [:camera] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from [:camera] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from [:camera] /Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:22-68

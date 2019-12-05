@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/sagarsuri/Downloads/raywenderlich/click_to_share/build/ios/Debug-iphoneos/esys_flutter_share/esys_flutter_share.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/build/Pods.build/Debug-iphoneos/esys_flutter_share.build/unextended-module.modulemap',
+    }]
+  }]
+}

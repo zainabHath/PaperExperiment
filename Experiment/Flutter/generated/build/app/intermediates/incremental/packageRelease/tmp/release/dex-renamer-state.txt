@@ -1,0 +1,4 @@
+#Thu Nov 21 09:04:04 AST 2019
+base.0=/Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

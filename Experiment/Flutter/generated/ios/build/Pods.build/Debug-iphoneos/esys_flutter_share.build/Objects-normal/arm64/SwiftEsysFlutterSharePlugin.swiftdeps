@@ -1,0 +1,739 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SwiftEsysFlutterSharePlugin"
+provides-nominal:
+- "18esys_flutter_share27SwiftEsysFlutterSharePluginC"
+provides-member:
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", ""]
+provides-dynamic-lookup:
+- "handle"
+- "register"
+depends-top-level:
+- !private "!"
+- !private "=="
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "FlutterMethodCall"
+- !private "FlutterMethodChannel"
+- "FlutterPlugin"
+- "FlutterPluginRegistrar"
+- "FlutterResult"
+- !private "FlutterViewController"
+- !private "NSDictionary"
+- "NSObject"
+- !private "NSSearchPathForDirectoriesInDomains"
+- !private "NSURL"
+- !private "String"
+- !private "StringLiteralType"
+- "SwiftEsysFlutterSharePlugin"
+- !private "UIActivityViewController"
+- !private "UIApplication"
+- "Void"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "first"]
+- !private ["SK", "append"]
+- !private ["SK", "first"]
+- !private ["SK", "isEmpty"]
+- !private ["So15CALayerDelegateP", "rootViewController"]
+- !private ["s7CVarArgP", "FlutterMethodChannel"]
+- !private ["s7CVarArgP", "NSSearchPathForDirectoriesInDomains"]
+- !private ["s7CVarArgP", "NSURL"]
+- !private ["s7CVarArgP", "SwiftEsysFlutterSharePlugin"]
+- !private ["s7CVarArgP", "UIActivityViewController"]
+- !private ["s7CVarArgP", "UIApplication"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "appendingPathComponent"]
+- ["s7CVarArgP", "application"]
+- ["s7CVarArgP", "applicationDidBecomeActive"]
+- ["s7CVarArgP", "applicationDidEnterBackground"]
+- ["s7CVarArgP", "applicationWillEnterForeground"]
+- ["s7CVarArgP", "applicationWillResignActive"]
+- ["s7CVarArgP", "applicationWillTerminate"]
+- !private ["s7CVarArgP", "arguments"]
+- !private ["s7CVarArgP", "file"]
+- !private ["s7CVarArgP", "files"]
+- !private ["s7CVarArgP", "first"]
+- ["s7CVarArgP", "handle"]
+- ["s7CVarArgP", "handleMethodCall"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "keyWindow"]
+- !private ["s7CVarArgP", "method"]
+- !private ["s7CVarArgP", "popoverPresentationController"]
+- ["s7CVarArgP", "register"]
+- ["s7CVarArgP", "registerWithRegistrar"]
+- !private ["s7CVarArgP", "rootViewController"]
+- ["s7CVarArgP", "setPluginRegistrantCallback"]
+- !private ["s7CVarArgP", "shared"]
+- !private ["s7CVarArgP", "show"]
+- !private ["s7CVarArgP", "sourceView"]
+- !private ["s7CVarArgP", "text"]
+- ["s7CVarArgP", "userNotificationCenter"]
+- !private ["s7CVarArgP", "value"]
+- !private ["s7CVarArgP", "view"]
+- !private ["Sl", "append"]
+- !private ["Sl", "first"]
+- !private ["Sl", "isEmpty"]
+- !private ["SL", "isEmpty"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "FlutterMethodChannel"]
+- !private ["s28CustomDebugStringConvertibleP", "NSSearchPathForDirectoriesInDomains"]
+- !private ["s28CustomDebugStringConvertibleP", "NSURL"]
+- !private ["s28CustomDebugStringConvertibleP", "SwiftEsysFlutterSharePlugin"]
+- !private ["s28CustomDebugStringConvertibleP", "UIActivityViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "UIApplication"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "appendingPathComponent"]
+- ["s28CustomDebugStringConvertibleP", "application"]
+- ["s28CustomDebugStringConvertibleP", "applicationDidBecomeActive"]
+- ["s28CustomDebugStringConvertibleP", "applicationDidEnterBackground"]
+- ["s28CustomDebugStringConvertibleP", "applicationWillEnterForeground"]
+- ["s28CustomDebugStringConvertibleP", "applicationWillResignActive"]
+- ["s28CustomDebugStringConvertibleP", "applicationWillTerminate"]
+- !private ["s28CustomDebugStringConvertibleP", "arguments"]
+- !private ["s28CustomDebugStringConvertibleP", "file"]
+- !private ["s28CustomDebugStringConvertibleP", "files"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- ["s28CustomDebugStringConvertibleP", "handle"]
+- ["s28CustomDebugStringConvertibleP", "handleMethodCall"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "keyWindow"]
+- !private ["s28CustomDebugStringConvertibleP", "method"]
+- !private ["s28CustomDebugStringConvertibleP", "popoverPresentationController"]
+- ["s28CustomDebugStringConvertibleP", "register"]
+- ["s28CustomDebugStringConvertibleP", "registerWithRegistrar"]
+- !private ["s28CustomDebugStringConvertibleP", "rootViewController"]
+- ["s28CustomDebugStringConvertibleP", "setPluginRegistrantCallback"]
+- !private ["s28CustomDebugStringConvertibleP", "shared"]
+- !private ["s28CustomDebugStringConvertibleP", "show"]
+- !private ["s28CustomDebugStringConvertibleP", "sourceView"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- ["s28CustomDebugStringConvertibleP", "userNotificationCenter"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "value"]
+- !private ["s23CustomStringConvertibleP", "FlutterMethodChannel"]
+- !private ["s23CustomStringConvertibleP", "NSSearchPathForDirectoriesInDomains"]
+- !private ["s23CustomStringConvertibleP", "NSURL"]
+- !private ["s23CustomStringConvertibleP", "SwiftEsysFlutterSharePlugin"]
+- !private ["s23CustomStringConvertibleP", "UIActivityViewController"]
+- !private ["s23CustomStringConvertibleP", "UIApplication"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendingPathComponent"]
+- ["s23CustomStringConvertibleP", "application"]
+- ["s23CustomStringConvertibleP", "applicationDidBecomeActive"]
+- ["s23CustomStringConvertibleP", "applicationDidEnterBackground"]
+- ["s23CustomStringConvertibleP", "applicationWillEnterForeground"]
+- ["s23CustomStringConvertibleP", "applicationWillResignActive"]
+- ["s23CustomStringConvertibleP", "applicationWillTerminate"]
+- !private ["s23CustomStringConvertibleP", "arguments"]
+- !private ["s23CustomStringConvertibleP", "file"]
+- !private ["s23CustomStringConvertibleP", "files"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- ["s23CustomStringConvertibleP", "handle"]
+- ["s23CustomStringConvertibleP", "handleMethodCall"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "keyWindow"]
+- !private ["s23CustomStringConvertibleP", "method"]
+- !private ["s23CustomStringConvertibleP", "popoverPresentationController"]
+- ["s23CustomStringConvertibleP", "register"]
+- ["s23CustomStringConvertibleP", "registerWithRegistrar"]
+- !private ["s23CustomStringConvertibleP", "rootViewController"]
+- ["s23CustomStringConvertibleP", "setPluginRegistrantCallback"]
+- !private ["s23CustomStringConvertibleP", "shared"]
+- !private ["s23CustomStringConvertibleP", "show"]
+- !private ["s23CustomStringConvertibleP", "sourceView"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- ["s23CustomStringConvertibleP", "userNotificationCenter"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["Se", "append"]
+- !private ["Se", "first"]
+- !private ["Se", "isEmpty"]
+- !private ["SE", "append"]
+- !private ["SE", "first"]
+- !private ["SE", "isEmpty"]
+- !private ["SQ", "FlutterMethodChannel"]
+- !private ["SQ", "NSSearchPathForDirectoriesInDomains"]
+- !private ["SQ", "NSURL"]
+- !private ["SQ", "SwiftEsysFlutterSharePlugin"]
+- !private ["SQ", "UIActivityViewController"]
+- !private ["SQ", "UIApplication"]
+- ["SQ", ""]
+- !private ["SQ", "append"]
+- !private ["SQ", "appendingPathComponent"]
+- ["SQ", "application"]
+- ["SQ", "applicationDidBecomeActive"]
+- ["SQ", "applicationDidEnterBackground"]
+- ["SQ", "applicationWillEnterForeground"]
+- ["SQ", "applicationWillResignActive"]
+- ["SQ", "applicationWillTerminate"]
+- !private ["SQ", "arguments"]
+- !private ["SQ", "cachesDirectory"]
+- !private ["SQ", "file"]
+- !private ["SQ", "files"]
+- !private ["SQ", "first"]
+- ["SQ", "handle"]
+- ["SQ", "handleMethodCall"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isEmpty"]
+- !private ["SQ", "keyWindow"]
+- !private ["SQ", "method"]
+- !private ["SQ", "popoverPresentationController"]
+- ["SQ", "register"]
+- ["SQ", "registerWithRegistrar"]
+- !private ["SQ", "rootViewController"]
+- ["SQ", "setPluginRegistrantCallback"]
+- !private ["SQ", "shared"]
+- !private ["SQ", "show"]
+- !private ["SQ", "sourceView"]
+- !private ["SQ", "text"]
+- !private ["SQ", "userDomainMask"]
+- ["SQ", "userNotificationCenter"]
+- !private ["SQ", "value"]
+- !private ["SQ", "view"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "userDomainMask"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "value"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s32ExpressibleByStringInterpolationP", "isEmpty"]
+- !private ["s26ExpressibleByStringLiteralP", "isEmpty"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "isEmpty"]
+- !private ["So22FlutterBinaryMessengerP", "show"]
+- !private ["So22FlutterBinaryMessengerP", "view"]
+- !private ["So17FlutterMethodCallC", "arguments"]
+- !private ["So17FlutterMethodCallC", "method"]
+- !private ["So20FlutterMethodChannelC", "init"]
+- !private ["So13FlutterPluginP", "FlutterMethodChannel"]
+- !private ["So13FlutterPluginP", "NSSearchPathForDirectoriesInDomains"]
+- !private ["So13FlutterPluginP", "NSURL"]
+- !private ["So13FlutterPluginP", "SwiftEsysFlutterSharePlugin"]
+- !private ["So13FlutterPluginP", "UIActivityViewController"]
+- !private ["So13FlutterPluginP", "UIApplication"]
+- ["So13FlutterPluginP", ""]
+- ["So13FlutterPluginP", "application"]
+- ["So13FlutterPluginP", "applicationDidBecomeActive"]
+- ["So13FlutterPluginP", "applicationDidEnterBackground"]
+- ["So13FlutterPluginP", "applicationWillEnterForeground"]
+- ["So13FlutterPluginP", "applicationWillResignActive"]
+- ["So13FlutterPluginP", "applicationWillTerminate"]
+- !private ["So13FlutterPluginP", "file"]
+- !private ["So13FlutterPluginP", "files"]
+- ["So13FlutterPluginP", "handle"]
+- ["So13FlutterPluginP", "handleMethodCall"]
+- !private ["So13FlutterPluginP", "init"]
+- ["So13FlutterPluginP", "register"]
+- ["So13FlutterPluginP", "registerWithRegistrar"]
+- ["So13FlutterPluginP", "setPluginRegistrantCallback"]
+- !private ["So13FlutterPluginP", "text"]
+- ["So13FlutterPluginP", "userNotificationCenter"]
+- !private ["So22FlutterPluginRegistrarP", "addMethodCallDelegate"]
+- !private ["So22FlutterPluginRegistrarP", "messenger"]
+- !private ["So21FlutterPluginRegistryP", "show"]
+- !private ["So21FlutterPluginRegistryP", "view"]
+- !private ["So22FlutterTextureRegistryP", "show"]
+- !private ["So22FlutterTextureRegistryP", "view"]
+- !private ["So21FlutterViewControllerC", "show"]
+- !private ["So21FlutterViewControllerC", "view"]
+- !private ["SH", "FlutterMethodChannel"]
+- !private ["SH", "NSSearchPathForDirectoriesInDomains"]
+- !private ["SH", "NSURL"]
+- !private ["SH", "SwiftEsysFlutterSharePlugin"]
+- !private ["SH", "UIActivityViewController"]
+- !private ["SH", "UIApplication"]
+- ["SH", ""]
+- !private ["SH", "append"]
+- !private ["SH", "appendingPathComponent"]
+- ["SH", "application"]
+- ["SH", "applicationDidBecomeActive"]
+- ["SH", "applicationDidEnterBackground"]
+- ["SH", "applicationWillEnterForeground"]
+- ["SH", "applicationWillResignActive"]
+- ["SH", "applicationWillTerminate"]
+- !private ["SH", "arguments"]
+- !private ["SH", "cachesDirectory"]
+- !private ["SH", "file"]
+- !private ["SH", "files"]
+- !private ["SH", "first"]
+- ["SH", "handle"]
+- ["SH", "handleMethodCall"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "isEmpty"]
+- !private ["SH", "keyWindow"]
+- !private ["SH", "method"]
+- !private ["SH", "popoverPresentationController"]
+- ["SH", "register"]
+- ["SH", "registerWithRegistrar"]
+- !private ["SH", "rootViewController"]
+- ["SH", "setPluginRegistrantCallback"]
+- !private ["SH", "shared"]
+- !private ["SH", "show"]
+- !private ["SH", "sourceView"]
+- !private ["SH", "text"]
+- ["SH", "userNotificationCenter"]
+- !private ["SH", "value"]
+- !private ["SH", "view"]
+- !private ["s25LosslessStringConvertibleP", "isEmpty"]
+- !private ["s10MirrorPathP", "isEmpty"]
+- !private ["SM", "append"]
+- !private ["SM", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["So8NSCodingP", "appendingPathComponent"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isEmpty"]
+- !private ["So8NSCodingP", "popoverPresentationController"]
+- !private ["So8NSCodingP", "rootViewController"]
+- !private ["So8NSCodingP", "show"]
+- !private ["So8NSCodingP", "value"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So9NSCopyingP", "appendingPathComponent"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "isEmpty"]
+- !private ["So9NSCopyingP", "value"]
+- !private ["So12NSDictionaryC", "value"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "popoverPresentationController"]
+- !private ["So26NSExtensionRequestHandlingP", "show"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So17NSFastEnumerationP", "value"]
+- !private ["So21NSItemProviderReadingP", "appendingPathComponent"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "isEmpty"]
+- !private ["So21NSItemProviderWritingP", "appendingPathComponent"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "isEmpty"]
+- !private ["So16NSMutableCopyingP", "isEmpty"]
+- !private ["So16NSMutableCopyingP", "value"]
+- ["So8NSObjectC", "FlutterMethodCall"]
+- !private ["So8NSObjectC", "FlutterMethodChannel"]
+- ["So8NSObjectC", "FlutterPluginRegistrar"]
+- ["So8NSObjectC", "FlutterResult"]
+- !private ["So8NSObjectC", "FlutterViewController"]
+- !private ["So8NSObjectC", "NSDictionary"]
+- !private ["So8NSObjectC", "NSSearchPathForDirectoriesInDomains"]
+- !private ["So8NSObjectC", "NSURL"]
+- !private ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "SwiftEsysFlutterSharePlugin"]
+- !private ["So8NSObjectC", "UIActivityViewController"]
+- !private ["So8NSObjectC", "UIApplication"]
+- ["So8NSObjectC", "Void"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "appendingPathComponent"]
+- ["So8NSObjectC", "application"]
+- ["So8NSObjectC", "applicationDidBecomeActive"]
+- ["So8NSObjectC", "applicationDidEnterBackground"]
+- ["So8NSObjectC", "applicationWillEnterForeground"]
+- ["So8NSObjectC", "applicationWillResignActive"]
+- ["So8NSObjectC", "applicationWillTerminate"]
+- !private ["So8NSObjectC", "arguments"]
+- ["So8NSObjectC", "file"]
+- ["So8NSObjectC", "files"]
+- ["So8NSObjectC", "handle"]
+- ["So8NSObjectC", "handleMethodCall"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isEmpty"]
+- !private ["So8NSObjectC", "keyWindow"]
+- !private ["So8NSObjectC", "method"]
+- !private ["So8NSObjectC", "popoverPresentationController"]
+- ["So8NSObjectC", "register"]
+- ["So8NSObjectC", "registerWithRegistrar"]
+- !private ["So8NSObjectC", "rootViewController"]
+- ["So8NSObjectC", "setPluginRegistrantCallback"]
+- !private ["So8NSObjectC", "shared"]
+- !private ["So8NSObjectC", "show"]
+- !private ["So8NSObjectC", "sourceView"]
+- ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "userNotificationCenter"]
+- !private ["So8NSObjectC", "value"]
+- !private ["So8NSObjectC", "view"]
+- !private ["So8NSObjectP", "FlutterMethodChannel"]
+- !private ["So8NSObjectP", "NSSearchPathForDirectoriesInDomains"]
+- !private ["So8NSObjectP", "NSURL"]
+- !private ["So8NSObjectP", "SwiftEsysFlutterSharePlugin"]
+- !private ["So8NSObjectP", "UIActivityViewController"]
+- !private ["So8NSObjectP", "UIApplication"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addMethodCallDelegate"]
+- !private ["So8NSObjectP", "appendingPathComponent"]
+- ["So8NSObjectP", "application"]
+- ["So8NSObjectP", "applicationDidBecomeActive"]
+- ["So8NSObjectP", "applicationDidEnterBackground"]
+- ["So8NSObjectP", "applicationWillEnterForeground"]
+- ["So8NSObjectP", "applicationWillResignActive"]
+- ["So8NSObjectP", "applicationWillTerminate"]
+- !private ["So8NSObjectP", "arguments"]
+- !private ["So8NSObjectP", "file"]
+- !private ["So8NSObjectP", "files"]
+- ["So8NSObjectP", "handle"]
+- ["So8NSObjectP", "handleMethodCall"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isEmpty"]
+- !private ["So8NSObjectP", "keyWindow"]
+- !private ["So8NSObjectP", "messenger"]
+- !private ["So8NSObjectP", "method"]
+- !private ["So8NSObjectP", "popoverPresentationController"]
+- ["So8NSObjectP", "register"]
+- ["So8NSObjectP", "registerWithRegistrar"]
+- !private ["So8NSObjectP", "rootViewController"]
+- ["So8NSObjectP", "setPluginRegistrantCallback"]
+- !private ["So8NSObjectP", "shared"]
+- !private ["So8NSObjectP", "show"]
+- !private ["So8NSObjectP", "sourceView"]
+- !private ["So8NSObjectP", "text"]
+- ["So8NSObjectP", "userNotificationCenter"]
+- !private ["So8NSObjectP", "value"]
+- !private ["So8NSObjectP", "view"]
+- !private ["So14NSSecureCodingP", "appendingPathComponent"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "isEmpty"]
+- !private ["So14NSSecureCodingP", "value"]
+- !private ["So8NSStringC", "isEmpty"]
+- !private ["So5NSURLC", "appendingPathComponent"]
+- !private ["So5NSURLC", "init"]
+- !private ["s9OptionSetP", "userDomainMask"]
+- !private ["Sk", "append"]
+- !private ["Sk", "first"]
+- !private ["Sm", "append"]
+- !private ["Sm", "first"]
+- !private ["Sm", "isEmpty"]
+- !private ["SY", "cachesDirectory"]
+- !private ["SY", "userDomainMask"]
+- !private ["So21NSSearchPathDirectoryV", "cachesDirectory"]
+- !private ["So22NSSearchPathDomainMaskV", "userDomainMask"]
+- !private ["ST", "append"]
+- !private ["ST", "first"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "value"]
+- !private ["s10SetAlgebraP", "userDomainMask"]
+- !private ["SS", "isEmpty"]
+- !private ["Sy", "isEmpty"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "FlutterMethodCall"]
+- !private ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "FlutterMethodChannel"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "FlutterPluginRegistrar"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "FlutterResult"]
+- !private ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "FlutterViewController"]
+- !private ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "NSDictionary"]
+- !private ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "NSSearchPathForDirectoriesInDomains"]
+- !private ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "NSURL"]
+- !private ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "String"]
+- !private ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "SwiftEsysFlutterSharePlugin"]
+- !private ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "UIActivityViewController"]
+- !private ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "UIApplication"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "Void"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "application"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "applicationDidBecomeActive"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "applicationDidEnterBackground"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "applicationWillEnterForeground"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "applicationWillResignActive"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "applicationWillTerminate"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "deinit"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "file"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "files"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "handle"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "handleMethodCall"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "init"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "register"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "registerWithRegistrar"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "setPluginRegistrantCallback"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "text"]
+- ["18esys_flutter_share27SwiftEsysFlutterSharePluginC", "userNotificationCenter"]
+- !private ["s16TextOutputStreamP", "isEmpty"]
+- !private ["s20TextOutputStreamableP", "isEmpty"]
+- !private ["So29UIAccessibilityIdentificationP", "rootViewController"]
+- !private ["So24UIActivityViewControllerC", "init"]
+- !private ["So24UIActivityViewControllerC", "popoverPresentationController"]
+- !private ["So12UIAppearanceP", "rootViewController"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "popoverPresentationController"]
+- !private ["So21UIAppearanceContainerP", "rootViewController"]
+- !private ["So21UIAppearanceContainerP", "show"]
+- !private ["So21UIAppearanceContainerP", "sourceView"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So13UIApplicationC", "keyWindow"]
+- !private ["So13UIApplicationC", "shared"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "popoverPresentationController"]
+- !private ["So18UIContentContainerP", "show"]
+- !private ["So18UIContentContainerP", "sourceView"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So17UICoordinateSpaceP", "rootViewController"]
+- !private ["So13UIDynamicItemP", "rootViewController"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "popoverPresentationController"]
+- !private ["So18UIFocusEnvironmentP", "rootViewController"]
+- !private ["So18UIFocusEnvironmentP", "show"]
+- !private ["So18UIFocusEnvironmentP", "sourceView"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So11UIFocusItemP", "rootViewController"]
+- !private ["So20UIFocusItemContainerP", "rootViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "keyWindow"]
+- !private ["So30UIPasteConfigurationSupportingP", "popoverPresentationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "rootViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "shared"]
+- !private ["So30UIPasteConfigurationSupportingP", "show"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So31UIPopoverPresentationControllerC", "sourceView"]
+- !private ["So24UIPresentationControllerC", "sourceView"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "keyWindow"]
+- !private ["So11UIResponderC", "popoverPresentationController"]
+- !private ["So11UIResponderC", "rootViewController"]
+- !private ["So11UIResponderC", "shared"]
+- !private ["So11UIResponderC", "show"]
+- !private ["So11UIResponderC", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "keyWindow"]
+- !private ["So30UIResponderStandardEditActionsP", "popoverPresentationController"]
+- !private ["So30UIResponderStandardEditActionsP", "rootViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "shared"]
+- !private ["So30UIResponderStandardEditActionsP", "show"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "popoverPresentationController"]
+- !private ["So16UIStateRestoringP", "show"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "popoverPresentationController"]
+- !private ["So18UITraitEnvironmentP", "rootViewController"]
+- !private ["So18UITraitEnvironmentP", "show"]
+- !private ["So18UITraitEnvironmentP", "sourceView"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "keyWindow"]
+- !private ["So23UIUserActivityRestoringP", "popoverPresentationController"]
+- !private ["So23UIUserActivityRestoringP", "rootViewController"]
+- !private ["So23UIUserActivityRestoringP", "shared"]
+- !private ["So23UIUserActivityRestoringP", "show"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So6UIViewC", "rootViewController"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "popoverPresentationController"]
+- !private ["So16UIViewControllerC", "show"]
+- !private ["So16UIViewControllerC", "view"]
+- !private ["So8UIWindowC", "rootViewController"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "appendingPathComponent"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "isEmpty"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "appendingPathComponent"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "value"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "FlutterMethodChannel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSSearchPathForDirectoriesInDomains"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SwiftEsysFlutterSharePlugin"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIActivityViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIApplication"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "appendingPathComponent"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "application"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationDidBecomeActive"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationDidEnterBackground"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationWillEnterForeground"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationWillResignActive"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationWillTerminate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "arguments"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "file"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "files"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "handle"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "handleMethodCall"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isEmpty"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "keyWindow"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "method"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "popoverPresentationController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "register"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "registerWithRegistrar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rootViewController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "setPluginRegistrantCallback"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shared"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "show"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sourceView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "userNotificationCenter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "value"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "rootViewController"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So22FlutterBinaryMessengerP"
+- !private "So17FlutterMethodCallC"
+- !private "So20FlutterMethodChannelC"
+- "So13FlutterPluginP"
+- !private "So22FlutterPluginRegistrarP"
+- !private "So21FlutterPluginRegistryP"
+- !private "So22FlutterTextureRegistryP"
+- !private "So21FlutterViewControllerC"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So12NSDictionaryC"
+- !private "So26NSExtensionRequestHandlingP"
+- !private "So17NSFastEnumerationP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "So5NSURLC"
+- !private "s9OptionSetP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "So21NSSearchPathDirectoryV"
+- !private "So22NSSearchPathDomainMaskV"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "SS"
+- !private "Sy"
+- "18esys_flutter_share27SwiftEsysFlutterSharePluginC"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So24UIActivityViewControllerC"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So13UIApplicationC"
+- !private "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So31UIPopoverPresentationControllerC"
+- !private "So24UIPresentationControllerC"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- !private "So16UIViewControllerC"
+- !private "So8UIWindowC"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/Target Support Files/esys_flutter_share/esys_flutter_share-umbrella.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterCallbackCache.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterEngine.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterTexture.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterAppDelegate.h"
+- "/Users/sagarsuri/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/esys_flutter_share-1.0.2/ios/Classes/EsysFlutterSharePlugin.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterPlugin.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterBinaryMessenger.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterViewController.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterHeadlessDartRunner.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/Flutter.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterCodecs.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterChannels.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterMacros.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterPlatformViews.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Headers/FlutterDartProject.h"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/build/Pods.build/Debug-iphoneos/esys_flutter_share.build/unextended-module.modulemap"
+- "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/../.symlinks/flutter/ios/Flutter.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "531f40edbed02590031480a2ee083a49"

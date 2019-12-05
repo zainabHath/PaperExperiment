@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "05c53e25ff017b2b8735e07bc40a2116"
+build_time: [1562859523, 355289000]
+inputs:
+  "/Users/sagarsuri/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/esys_flutter_share-1.0.2/ios/Classes/SwiftEsysFlutterSharePlugin.swift": [1559640669, 0]

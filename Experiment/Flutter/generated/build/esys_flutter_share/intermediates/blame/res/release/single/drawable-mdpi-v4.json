@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/nouf/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/68294d954915e710ab623d01c9802a99/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/nouf/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/68294d954915e710ab623d01c9802a99/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/nouf/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/68294d954915e710ab623d01c9802a99/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/nouf/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/68294d954915e710ab623d01c9802a99/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/nouf/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/68294d954915e710ab623d01c9802a99/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    }
+]

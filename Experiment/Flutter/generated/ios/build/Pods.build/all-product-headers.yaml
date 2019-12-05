@@ -1,0 +1,129 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/build/ios/Debug-iphoneos/Pods_Runner.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Runner-umbrella.h",
+          'external-contents': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Runner-Swift.h",
+          'external-contents': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/build/ios/Debug-iphoneos/Pods_Runner.framework/Headers/Pods_Runner-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/build/ios/Debug-iphoneos/Pods_Runner.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/build/Pods.build/Debug-iphoneos/Pods-Runner.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/build/ios/Debug-iphoneos/camera/camera.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CameraPlugin.h",
+          'external-contents': "/Users/sagarsuri/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.5.2+1/ios/Classes/CameraPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "camera-Swift.h",
+          'external-contents': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/build/ios/Debug-iphoneos/camera/camera.framework/Headers/camera-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "camera-umbrella.h",
+          'external-contents': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/Target Support Files/camera/camera-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/build/ios/Debug-iphoneos/camera/camera.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/build/Pods.build/Debug-iphoneos/camera.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/build/ios/Debug-iphoneos/esys_flutter_share/esys_flutter_share.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "EsysFlutterSharePlugin.h",
+          'external-contents': "/Users/sagarsuri/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/esys_flutter_share-1.0.2/ios/Classes/EsysFlutterSharePlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "esys_flutter_share-Swift.h",
+          'external-contents': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/build/ios/Debug-iphoneos/esys_flutter_share/esys_flutter_share.framework/Headers/esys_flutter_share-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "esys_flutter_share-umbrella.h",
+          'external-contents': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/Target Support Files/esys_flutter_share/esys_flutter_share-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/build/ios/Debug-iphoneos/esys_flutter_share/esys_flutter_share.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/build/Pods.build/Debug-iphoneos/esys_flutter_share.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/build/ios/Debug-iphoneos/path_provider/path_provider.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PathProviderPlugin.h",
+          'external-contents': "/Users/sagarsuri/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.1.0/ios/Classes/PathProviderPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "path_provider-Swift.h",
+          'external-contents': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/build/ios/Debug-iphoneos/path_provider/path_provider.framework/Headers/path_provider-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "path_provider-umbrella.h",
+          'external-contents': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/Pods/Target Support Files/path_provider/path_provider-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/build/ios/Debug-iphoneos/path_provider/path_provider.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sagarsuri/Downloads/raywenderlich/click_to_share/ios/build/Pods.build/Debug-iphoneos/path_provider.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

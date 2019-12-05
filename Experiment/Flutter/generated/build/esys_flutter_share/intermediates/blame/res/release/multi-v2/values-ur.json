@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/incremental/mergeReleaseResources/merged.dir/values-ur/values-ur.xml",
+            "map": [
+                {
+                    "source": "/Users/nouf/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/68294d954915e710ab623d01c9802a99/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/nouf/Documents/KFUPM1-1/Research_Methods/apps/generated/build/esys_flutter_share/intermediates/res/merged/release/values-ur/values-ur.xml",
+            "map": [
+                {
+                    "source": "/Users/nouf/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/68294d954915e710ab623d01c9802a99/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
