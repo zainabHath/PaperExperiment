@@ -1,0 +1,60 @@
+body, html{
+}
+body{
+  color:#333;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: transparent;
+  background-repeat:repeat;
+  background-size: cover;
+}
+.img-cap
+{
+  width: 300px;
+  min-height: 400px;
+  background: linear-gradient(160deg, #02ccba 0%, #aa7ecd 100%);
+}
+.deck {
+    width: auto;
+    min-height: auto;
+    padding: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+     margin: auto;
+}
+
+.deck .card {
+     width: 25vw;
+    height: 25vw;
+    background: #2e3d49;
+    font-size: 0;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     margin: 4px;
+}
+.card-img {
+     width: 25vw;
+    height: 25vw;
+}
+.block{
+  margin:auto;
+  position: absolute;
+right:    0;
+bottom:   0;
+}
+button{
+  background: gray:
+  color:#333;
+  border-radius: 3px;
+  border:1px solid #ccc;
+  margin:.25rem;
+}
+.pictures{
+
+}
+.controls{
+}

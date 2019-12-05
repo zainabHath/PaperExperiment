@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "cordova-plugin-camera-preview": "git+https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview.git"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-camera-preview": {},
+      "cordova-plugin-file": {}
+    },
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "^8.1.0",
+    "cordova-plugin-file": "^6.0.2"
+  }
+}
